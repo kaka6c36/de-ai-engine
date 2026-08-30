@@ -1,0 +1,10 @@
+{
+  "name": "de-ai-engine",
+  "description": "以人類寫作特徵重構文章、並檢查 AI 風格指紋的 Cursor 技能與子代理。支援繁體中文、簡體中文與英文。",
+  "version": "1.0.0",
+  "author": {
+    "name": "Anson Tsang"
+  },
+  "license": "MIT",
+  "keywords": ["writing", "rewrite", "style", "chinese", "english"]
+}
